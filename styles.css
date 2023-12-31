@@ -1,11 +1,16 @@
 body {
     margin: 0;
-    padding: 0;
+    padding: 100px;
     font-family: Arial, sans-serif;
     line-height: 1.6;
+    background-color: #83E1FF;
+
 }
-.content {
-    padding: 20px;
-    height: 1500px;
-    overflow: hidden;
+
+.board {
+    background-color: #DFCEB4;
+    width: auto;
+    margin-top: 500px;
+    height: 10000px;
+
 }
