@@ -3,14 +3,16 @@ body {
     padding: 100px;
     font-family: Arial, sans-serif;
     line-height: 1.6;
-    background-color: #83E1FF;
-
+    background-color: #a8e9ff;
 }
 
 .board {
     background-color: #DFCEB4;
     width: auto;
-    margin-top: 500px;
-    height: 10000px;
+    height: 2500px;
+    margin:100px
+}
 
+.nitan {
+    height: 4000px;
 }
